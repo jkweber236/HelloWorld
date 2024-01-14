@@ -14,6 +14,5 @@ This is Hello World in Python. It consists of a single line that prints the fami
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [Visual Studio Code and Github](https://code.visualstudio.com/docs/sourcecontrol/github_)
