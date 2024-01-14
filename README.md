@@ -10,8 +10,7 @@ This is Hello World in Python. It consists of a single line that prints the fami
 
 * Python 3.12.1
 * Visual Studio Code
-* Github
-
+* Git / Github
 
 # Useful Websites
 
